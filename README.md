@@ -1,5 +1,4 @@
 # TipCalculator
------------------------------------------------------------------------------------------
 ## Description
 TIP Calculator is an android app that calculates the tip amount to pay at a restaurant. 
 
